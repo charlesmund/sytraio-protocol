@@ -1,20 +1,34 @@
 # SYTRAIO Protocol
 
-Welcome to `sytraio/protocol`, the open-source repository governing the SYTRAIO Protocol—defining what it means for a digital experience to be AI-Optimized (AIO). This standard sets transparent, public benchmarks for AI discoverability, content integrity, trust signals, and machine accessibility.
+**The Open Standard for AI Optimization and Machine-Trust in Digital Content**
 
-## 🧩 Components
+Welcome to `sytraio/protocol` — the official repository of the SYTRAIO Protocol, a dynamic open framework that defines what it means for digital experiences to be **AI-Optimized (AIO)**.
 
-- AIO Scoring Logic
-- Machine-Trust Metrics
-- AI Disclosure Guidelines
-- SYTRAIO Certification Tiers
+This protocol enables websites, platforms, and digital content creators to meet the evolving standards of **AI discoverability, machine interpretability, and responsible AI disclosure**.
 
-Visit [https://sytraio.com](https://sytraio.com) to learn more.
+---
 
-## 🛠 Contribute
+## 🔍 What Is the SYTRAIO Protocol?
 
-We welcome contributions from AI engineers, marketers, designers, and researchers. Please read [CONTRIBUTING.md](docs/contributing.md) for how to get started.
+The SYTRAIO Protocol governs the creation, evaluation, and certification of AI-Optimized digital systems. It provides:
 
-## 📜 License
+- 📊 **Transparent Scoring Logic** for AIO audits
+- 🤖 **Machine-Trust Metrics** for AI alignment and reliability
+- 📄 **AI Disclosure Guidelines** for ethical content attribution
+- 📈 **Certification Criteria** for SYTRAIO’s official trustmark
 
-MIT License. See [LICENSE](LICENSE).
+This standard is **open-source**, community-driven, and designed to evolve alongside advances in artificial intelligence, large language models, and AI-native web infrastructure.
+
+---
+
+## 📁 Repository Contents
+
+```txt
+/docs                     → Protocol documentation and system logic
+/schemas                 → JSON schemas for AIO compliance & reporting
+/discussions             → Community RFCs (Request for Comments)
+/templates               → GitHub templates for issues and contributions
+README.md                → This document
+CONTRIBUTING.md          → Contribution guide
+CODE_OF_CONDUCT.md       → Community standards
+LICENSE                  → Legal open use (MIT or CC BY 4.0)
