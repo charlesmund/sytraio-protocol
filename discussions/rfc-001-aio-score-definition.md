@@ -52,6 +52,56 @@ Each category contains sub-criteria, scored on a 5-point scale, which are normal
 
 ---
 
+## 🧪 Evaluation Methodology
+A standardized scoring engine will analyze the digital entity using the following methods:
+
+Schema Parsing: For structural compliance
+
+AI Summary Consistency Tests: Run LLM on-page interpretation vs. source intent
+
+Metadata Audit: Validate labeling and canonical truth signals
+
+Content Provenance Check: Examine authorship disclosures and AI usage declarations
+
+Delivery Layer Evaluation: Ensure accessibility consistency across formats
+
+All scoring outputs must be deterministic, explainable, and reproducible across audits.
+
+---
+
+## 🔄 Versioning Considerations
+This RFC defines SYTRAIO Protocol v1.0 scoring structure
+
+Changes to weights, categories, or methods must trigger new RFCs
+
+AIO Scores must always be version-tagged in outputs (e.g., version: SYTRAIO v1.1)
+
+---
+
+## 📣 Call for Feedback
+We invite public commentary, proposed modifications, and suggested sub-criteria under the "RFCs" category in GitHub Discussions.
+
+Open Questions:
+Should LLM summarization fidelity be tested across multiple model providers?
+
+Should scoring engines offer an explainability layer for each score component?
+
+How should subdomain and multi-language pages be audited for fairness?
+
+---
+
+## 📜 License
+This RFC is published under the Creative Commons Attribution–NoDerivatives 4.0 International (CC BY-ND 4.0) license. Redistribution with attribution is allowed. Derivative standards are prohibited without written consent from SYTRAIO Governance.
+
+---
+
+## ✍️ Authored By
+Charles Mund, EMBA
+Founder, SYTRAIO
+https://sytraio.com
+
+---
+
 ## 📈 Example Output Format
 
 ```json
@@ -68,42 +118,3 @@ Each category contains sub-criteria, scored on a 5-point scale, which are normal
   "certified": true,
   "version": "SYTRAIO v1.0"
 }
-🧪 Evaluation Methodology
-A standardized scoring engine will analyze the digital entity using the following methods:
-
-Schema Parsing: For structural compliance
-
-AI Summary Consistency Tests: Run LLM on-page interpretation vs. source intent
-
-Metadata Audit: Validate labeling and canonical truth signals
-
-Content Provenance Check: Examine authorship disclosures and AI usage declarations
-
-Delivery Layer Evaluation: Ensure accessibility consistency across formats
-
-All scoring outputs must be deterministic, explainable, and reproducible across audits.
-
-🔄 Versioning Considerations
-This RFC defines SYTRAIO Protocol v1.0 scoring structure
-
-Changes to weights, categories, or methods must trigger new RFCs
-
-AIO Scores must always be version-tagged in outputs (e.g., version: SYTRAIO v1.1)
-
-📣 Call for Feedback
-We invite public commentary, proposed modifications, and suggested sub-criteria under the "RFCs" category in GitHub Discussions.
-
-Open Questions:
-Should LLM summarization fidelity be tested across multiple model providers?
-
-Should scoring engines offer an explainability layer for each score component?
-
-How should subdomain and multi-language pages be audited for fairness?
-
-📜 License
-This RFC is published under the Creative Commons Attribution–NoDerivatives 4.0 International (CC BY-ND 4.0) license. Redistribution with attribution is allowed. Derivative standards are prohibited without written consent from SYTRAIO Governance.
-
-✍️ Authored By
-Charles Mund, EMBA
-Founder, SYTRAIO
-https://sytraio.com
