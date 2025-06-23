@@ -21,18 +21,7 @@ This standard is **open-source**, community-driven, and designed to evolve along
 
 ---
 
-## 📁 Repository Contents
-
-**Directories:**
-```txt
-/docs         → Protocol documentation and system logic
-/schemas      → JSON schemas for AIO compliance & reporting
-/discussions  → Community RFCs (Request for Comments)
-/templates    → GitHub templates for issues and contributions
-
----
-
-🌐 Why This Matters
+## 🌐 Why This Matters
 As AI agents become the new gatekeepers of digital attention, AI Optimization is the next frontier of discoverability.
 Yet, no unified, trusted standard exists — until now.
 
@@ -42,7 +31,9 @@ SYTRAIO addresses:
 ❌ Black-box AI ranking systems
 ✅ The need for a measurable, open-source, and ethical optimization standard for AI systems
 
-🧠 Who Should Participate
+---
+
+## 🧠 Who Should Participate
 We invite experts, practitioners, and visionaries in:
 
 AI Engineering & LLM Development
@@ -53,7 +44,9 @@ Content Marketing & Publishing
 Policy & AI Ethics
 Whether you’re an individual contributor or an organizational partner, your voice matters.
 
-🚀 How to Get Involved
+---
+
+## 🚀 How to Get Involved
 Review the Protocol
 Start in /docs to understand the architecture and scoring model.
 
@@ -67,7 +60,9 @@ Certify
 View our SYTRAIO Certification guide to understand how to become AIO compliant and verified.
 If available, please link to the certification guide here.
 
-🧾 License
+---
+
+## 🧾 License
 All content within this repository—protocol documentation, schemas, and scoring logic—is licensed under the Creative Commons Attribution–NoDerivatives 4.0 International (CC BY-ND 4.0).
 
 This means:
@@ -77,10 +72,24 @@ This means:
 ✅ You must provide appropriate attribution and link to https://sytraio.com
 See LICENSE for full details.
 
-📣 Acknowledgements
+---
+
+## 📣 Acknowledgements
 This project draws inspiration from open standards like Schema.org, W3C Protocols, and modern trust frameworks.
 SYTRAIO is a product of vision, necessity, and transparency.
 
 Built and maintained with integrity by
 Charles Mund, EMBA
 Founder, SYTRAIO
+
+## 📁 Repository Contents
+
+**Directories:**
+```txt
+/docs         → Protocol documentation and system logic
+/schemas      → JSON schemas for AIO compliance & reporting
+/discussions  → Community RFCs (Request for Comments)
+/templates    → GitHub templates for issues and contributions
+
+---
+
