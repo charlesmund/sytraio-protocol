@@ -95,3 +95,8 @@ We acknowledge every contributor in our **hall of thanks**, and notable contribu
 
 Thanks again for helping shape the future of **AI Optimization standards**. We can’t wait to collaborate with you!
 
+## ⚠️ Licensing Notice
+
+By contributing to this repository, you agree that your submissions will be governed by the **Creative Commons BY-ND 4.0 License**. You may not submit materials intended to override or fork the core SYTRAIO Protocol without express written consent from the maintainers.
+
+
