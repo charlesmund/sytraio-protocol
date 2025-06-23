@@ -87,3 +87,12 @@ All merged changes that affect scoring, certification, or schemas must:
 - Include documentation and examples
 - Pass internal consistency review
 - Be backward
+
+---
+
+## 📜 License & Legal
+
+All contributions to this repository fall under the [Creative Commons BY-ND 4.0 License](./LICENSE). By contributing, you agree not to publish derivative works or altered forms of the protocol without written permission from SYTRAIO governance.
+
+> Commercial use and integration are permitted only in unmodified form, with attribution.
+
