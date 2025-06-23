@@ -80,7 +80,16 @@ Certify
 View our SYTRAIO Certification guide to understand how to become AIO compliant and verified.
 
 🧾 License
-This project is released under the MIT License. See LICENSE for details.
+
+All content within this repository—protocol documentation, schemas, and scoring logic—is licensed under the **Creative Commons Attribution–NoDerivatives 4.0 International (CC BY-ND 4.0)**.
+
+This means:
+- ✅ You may share and redistribute the material in any format
+- ❌ You may **not** remix, transform, or build upon it
+- ✅ You must provide appropriate **attribution** and link to [https://sytraio.com](https://sytraio.com)
+
+See [`LICENSE`](./LICENSE) for full details.
+
 
 📣 Acknowledgements
 This project draws inspiration from open standards like Schema.org, W3C Protocols, and modern trust frameworks.
